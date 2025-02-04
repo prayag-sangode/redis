@@ -130,7 +130,7 @@ redis-cli -h redis-cluster-master.redis-cluster.svc.cluster.local -p 6379
 Authenticate and configure max memory:
 
 ```bash
-AUTH t5faetMBCc
+AUTH <password>
 CONFIG SET maxmemory 512mb
 CONFIG GET maxmemory
 ```
