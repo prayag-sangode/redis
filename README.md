@@ -1,4 +1,4 @@
-# K8s Monitoring and Redis Cluster Setup
+# Redis Cluster Setup & Monitoring on K8s
 
 ## Prerequisites
 Ensure you have a Linux system with basic dependencies installed.
